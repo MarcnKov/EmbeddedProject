@@ -1,4 +1,6 @@
 This repository contains the feasibility and design study for the digital processing subsystem (DPS) of a space instrument. The instrument consists of 50 linear sensors, each with 100 pixels, and a Front End Electronics (FEE) subsystem for analog-to-digital conversion and data transfer.
+**For Detailed project description please see SPE_S_report.pdf**
+
 
 **Key Features:** 
 
